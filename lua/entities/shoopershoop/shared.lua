@@ -1,0 +1,10 @@
+ ENT.Type = "anim"  
+ ENT.Base = "base_gmodentity"     
+ ENT.PrintName		= "SH-00-P-1337 Laser"  
+ ENT.Author			= "MadMoe & LightDemon"  
+ ENT.Contact			= "MAH LAZOR"  
+ ENT.Purpose			= "killin shtuff"  
+ ENT.Instructions	= "SHOOPDAWHOOP"  
+ 
+ENT.Spawnable			= true
+ENT.AdminSpawnable		= false

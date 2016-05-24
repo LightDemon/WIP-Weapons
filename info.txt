@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name" "GCX working folder"
+	"version" "5"
+	"up_date" "When ever we have an idea"
+	"author_name" "Everyone"
+	"author_email" "NoOne"
+	"info" "This is for Devs ONLY"
+}
